@@ -12,6 +12,6 @@ chmod +x secure_github_auth.sh
 ```
 
 ## Source
-/data/data/com.termux/files/home/consolidation-audit/master/secure_github_auth.sh
+/data/data/com.termux/files/home/c25-final-13952/aikre8tive/secure_github_auth.sh
 
 Built by Constellation 25 — FacePrintPay / Cygel White
